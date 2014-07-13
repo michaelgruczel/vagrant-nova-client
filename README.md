@@ -1,0 +1,2 @@
+vagrant-nova-client
+===================
