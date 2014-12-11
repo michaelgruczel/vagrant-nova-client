@@ -1,8 +1,13 @@
 # vagrant-nova-client
 
-This is a simple vagrant boy with a nova lient insatllation on ubuntu
+```
+! This was tested Jul 15, 2014
+```
 
-The novaclient a python tool to use rackspace
+
+This is a simple vagrant box with a nova client insatllation on ubuntu
+
+The novaclient is a python tool to use open stack, here are some simple examples for rackspace (they offer open Stack as service)
 
 ## rackspace glossar
 
